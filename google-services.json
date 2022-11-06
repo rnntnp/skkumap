@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182119564328",
+    "project_id": "skkkumap",
+    "storage_bucket": "skkkumap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182119564328:android:7658595932a087205de11d",
+        "android_client_info": {
+          "package_name": "com.team6.skkumap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182119564328-f27pa9shj31tck81nu06psdt13o9f0ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4oH1SmKkaWp6-z4w_2je4tlPtXl_UP-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182119564328-f27pa9shj31tck81nu06psdt13o9f0ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
