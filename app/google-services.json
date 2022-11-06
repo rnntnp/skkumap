@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "182119564328-l4qnmhe24u4hcq0pr2bf1s956cnu05p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team6.skkumap",
+            "certificate_hash": "d427742cc9d3eb8261928b0d08c9ee7e95d550bf"
+          }
+        },
+        {
           "client_id": "182119564328-f27pa9shj31tck81nu06psdt13o9f0ao.apps.googleusercontent.com",
           "client_type": 3
         }
